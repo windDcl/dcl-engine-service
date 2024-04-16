@@ -1,0 +1,5 @@
+#for(x:conditions)
+boolean res1 = calc(#(x));
+#end
+
+boolean res = #(exp)
